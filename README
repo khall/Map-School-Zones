@@ -1,0 +1,4 @@
+Small script to utilize public school list from http://www.cde.ca.gov/ds/si/ds/pubschls.asp and to figure out a rough idea of where the school zones are
+It should be noted that the polygons created are squares and that this data could very well be wrong.
+
+You may run this script via: "ruby school_zones.rb pubschls.txt"
